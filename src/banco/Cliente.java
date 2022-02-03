@@ -1,5 +1,6 @@
 package banco;
 
+
 /**
  * clase para crear objetos de tipo cliente.
  * @author paco.
