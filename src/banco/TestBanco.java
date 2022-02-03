@@ -1,8 +1,17 @@
 
 package banco;
+/**
+ * Clase principal de mi programa.
+ * @author paco
+ *@version 1/2022
+ */
 public class TestBanco {
+	
 	private static final String El_saldo_de = "La cuenta de ";
-
+      /**
+       * Método principal de mi programa.
+       * @param args
+       */
 	public static void main(String[] args) {
 		/* Antonio y Beatriz se hacen clientes del banco */
 		Cliente antonioBanco = new Cliente("123456789Z", "Antonio Alonso",
